@@ -91,3 +91,4 @@ pylint-global.txt
 # Windows
 Thumbs.db
 desktop.ini
+db.ini
